@@ -2,9 +2,6 @@
 
 library(lubridate)
 
-##    remove this before saving final version
-setwd("~/School/R Programming/Coursera - Data Scientist/4 - Exploratory Data Analysis/Week 1/Project Data")
-
 ##    To start off clean, delete any previous files and directories
 
 if(file.exists("plot2.png")) {
